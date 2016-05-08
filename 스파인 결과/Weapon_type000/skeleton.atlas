@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon/Weapon_type00
+  rotate: false
+  xy: 2, 97
+  size: 389, 106
+  orig: 389, 106
+  offset: 0, 0
+  index: -1
+Weapon/Weapon_type00_s1
+  rotate: false
+  xy: 2, 61
+  size: 124, 34
+  orig: 124, 34
+  offset: 0, 0
+  index: -1
+Weapon/fire_img00
+  rotate: false
+  xy: 393, 2
+  size: 245, 201
+  orig: 245, 201
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bridge/Bridge_type_00_1
+  rotate: false
+  xy: 2, 184
+  size: 400, 302
+  orig: 400, 302
+  offset: 0, 0
+  index: -1
+Bridge/Bridge_type_00_2
+  rotate: true
+  xy: 404, 174
+  size: 312, 315
+  orig: 312, 315
+  offset: 0, 0
+  index: -1
+Bridge/Foot_type00_1
+  rotate: false
+  xy: 721, 251
+  size: 210, 123
+  orig: 210, 123
+  offset: 0, 0
+  index: -1
+Bridge/Foot_type00_2
+  rotate: false
+  xy: 2, 2
+  size: 209, 180
+  orig: 209, 180
+  offset: 0, 0
+  index: -1
+Bridge/Shield_type00_1
+  rotate: true
+  xy: 721, 190
+  size: 59, 232
+  orig: 59, 232
+  offset: 0, 0
+  index: -1
+Bridge/Shield_type00_2
+  rotate: true
+  xy: 721, 161
+  size: 27, 206
+  orig: 27, 206
+  offset: 0, 0
+  index: -1
+Bridge/Shield_type00_3
+  rotate: false
+  xy: 721, 376
+  size: 232, 110
+  orig: 232, 110
+  offset: 0, 0
+  index: -1
